@@ -130,6 +130,8 @@ Logging,Debug機能も実はすごいんだが割愛・・・
 
 # Demo
 
+![](https://i.imgur.com/PEnPUrI.png)
+
 ---
 
 # Demo解説
@@ -177,6 +179,17 @@ target service:  [base]
 target version:  [master]
 target url:      [https://base-dot-goa-api01.appspot.com]
 ```
+---
+
+# Master
+
+![](https://i.imgur.com/yRUhBPO.png)
+
+---
+
+# Feature
+
+![](https://i.imgur.com/3YDbr8m.png)
 
 ---
 
@@ -343,6 +356,13 @@ AppEngineのアプリをFirebaseで認証する
 Firebaseが使用するユーザーIDを借りて
 それ以外の永続化データはDatastoreで管理する
 ```
+
+---
+
+## さきほどのデモは実は認証しないと投稿できないようになっている
+
+![](https://i.imgur.com/1maABPV.png)
+
 
 ---
 
